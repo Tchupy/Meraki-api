@@ -1,0 +1,36 @@
+[
+  {
+    "network_id":"L_594475150812906507",
+    "vlans": [
+      {
+        "id": "304",
+        "name": "vlan304",
+        "subnet": "10.34.34.0/28",
+        "applianceIp": "10.34.34.1"
+      },
+      {
+        "id": "306",
+        "name": "vlan306",
+        "subnet": "10.36.36.0/28",
+        "applianceIp": "10.36.36.1"
+      }
+    ]
+   },
+    {
+  "network_id":"L_YYYYYYYY",
+  "vlans": [
+    {
+      "id": 304,
+      "name": "vlan304",
+      "subnet": "10.44.44.0/28",
+      "applianceIp": "10.44.44.1"
+    },
+    {
+      "id": 306,
+      "name": "vlan306",
+      "subnet": "10.46.46.0/28",
+      "applianceIp": "10.46.46.1"
+    }
+    ]
+   }
+]
